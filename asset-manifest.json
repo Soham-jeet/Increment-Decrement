@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Increment-Decrement/static/css/main.bf40b86c.chunk.css",
+    "main.js": "/Increment-Decrement/static/js/main.6998d474.chunk.js",
+    "main.js.map": "/Increment-Decrement/static/js/main.6998d474.chunk.js.map",
+    "runtime-main.js": "/Increment-Decrement/static/js/runtime-main.ff6b77f4.js",
+    "runtime-main.js.map": "/Increment-Decrement/static/js/runtime-main.ff6b77f4.js.map",
+    "static/css/2.13fd37b7.chunk.css": "/Increment-Decrement/static/css/2.13fd37b7.chunk.css",
+    "static/js/2.7652c81d.chunk.js": "/Increment-Decrement/static/js/2.7652c81d.chunk.js",
+    "static/js/2.7652c81d.chunk.js.map": "/Increment-Decrement/static/js/2.7652c81d.chunk.js.map",
+    "static/js/3.acdcd495.chunk.js": "/Increment-Decrement/static/js/3.acdcd495.chunk.js",
+    "static/js/3.acdcd495.chunk.js.map": "/Increment-Decrement/static/js/3.acdcd495.chunk.js.map",
+    "index.html": "/Increment-Decrement/index.html",
+    "static/css/2.13fd37b7.chunk.css.map": "/Increment-Decrement/static/css/2.13fd37b7.chunk.css.map",
+    "static/css/main.bf40b86c.chunk.css.map": "/Increment-Decrement/static/css/main.bf40b86c.chunk.css.map",
+    "static/js/2.7652c81d.chunk.js.LICENSE.txt": "/Increment-Decrement/static/js/2.7652c81d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Increment-Decrement/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff6b77f4.js",
+    "static/css/2.13fd37b7.chunk.css",
+    "static/js/2.7652c81d.chunk.js",
+    "static/css/main.bf40b86c.chunk.css",
+    "static/js/main.6998d474.chunk.js"
+  ]
+}
